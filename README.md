@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syedamaanullah673.
+- 👋 Hi, I’m Syedamaanullah673.
 - 👀 I’m interested in C,C++,Java,Python,HTML,CSS,JavaScript.
 - 🌱 I’m currently learning in Atria Institute of TEchnology.
 - 💞️ I’m looking to collaborate on any above mentioned language projects.
